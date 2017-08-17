@@ -1,0 +1,12 @@
+{
+  "name": "test_types-jquery",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "tsc"
+  },
+  "devDependencies": {
+    "@types/jquery": "3.2.11",
+    "typescript": "2.3.0"
+  }
+}
